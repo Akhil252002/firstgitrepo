@@ -1,5 +1,3 @@
 git log -pretty=online ->for shows all commits in one line
 git remote -v ->its give the fetch and pushing remote (like origin)
 git checkout -b branch-name ->used to create branch or (we also use git switch -b branch-name) => for experimental branch
-git branch -all(shows all branches in local as well as remote) or git branch
-git switch -(used to move to another branch from previous branch)
